@@ -9,7 +9,6 @@ Hobbies
 -
 
 My Hobbies Include
-
 -Hiking
 -Offroading
 -Modding
