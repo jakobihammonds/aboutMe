@@ -9,10 +9,10 @@ Hobbies
 -
 
 My Hobbies Include
--Hiking
--Offroading
--Modding
--Logo Design
--Football
--Gym
--
+
+- Hiking
+- Offroading
+- Modding
+- Logo Design
+- Football
+- Gym
