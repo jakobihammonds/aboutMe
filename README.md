@@ -16,3 +16,17 @@ My Hobbies Include
 - Logo Design
 - Football
 - Gym
+
+My Nightime Routine Is
+- Eat dinner
+- Shower
+- Play some games with friends.
+- Snag my cat
+- Sleep with cat
+
+-
+## My Philosophy
+
+Cats <b>are</b> better than dogs.
+
+Dogs <b>are</b> worse than Cats.
