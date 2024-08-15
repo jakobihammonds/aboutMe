@@ -30,3 +30,9 @@ My Nightime Routine Is
 Cats <b>are</b> better than dogs.
 
 Dogs <b>are</b> worse than Cats.
+
+## Favorite Quotes
+
+"So the best way to get something done, if you, if you hold near and dear to you that you like to be able to, anyway." - Joe Biden
+
+"Are you a different animal and the same beast?" - Kobe Bryant
