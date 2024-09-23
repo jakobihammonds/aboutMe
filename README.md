@@ -36,3 +36,16 @@ Dogs <b>are</b> worse than Cats.
 "So the best way to get something done, if you, if you hold near and dear to you that you like to be able to, anyway." - Joe Biden
 
 "Are you a different animal and the same beast?" - Kobe Bryant
+
+## My Favorite Websites
+
+[Roblox](https://www.roblox.com "Hi :)")
+[ESPN](https://www.espn.com "Hey whats up...")
+
+## Persons of Interest
+
+[Tua Tagavailoa][1]<br>
+
+
+
+
