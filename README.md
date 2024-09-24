@@ -59,12 +59,12 @@ Dogs <b>are</b> worse than Cats.
 
 ## Favorite Terms
 
-| Term | Definition |
-|:-|:----:|
-| Vivid| Producing powerful feelings or strong, clear images in the mind.|
-| Luminescent| Emitting light not caused by heat; glowing.|
-| Ideation| The process of forming ideas or concepts.|
-| Tactile| Relating to the sense of touch; capable of being felt.|
+| Term | Definition | My Meaning |
+|:-|:----:|---:|
+| Vivid| Producing powerful feelings or strong, clear images in the mind. | Bright and unforgettable imagery. |
+| Luminescent | Emitting light not caused by heat; glowing. | A soft, enchanting glow. |
+| Ideation | The process of forming ideas or concepts. | The spark of creativity. |
+| Tactile | Relating to the sense of touch; capable of being felt. | Experiencing the world through touch. |
 
 
 
