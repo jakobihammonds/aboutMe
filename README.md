@@ -48,13 +48,13 @@ Dogs <b>are</b> worse than Cats.
 ## Persons of Interest
 
 [Tua Tagavailoa][1]<br>
-\n
+
 ![Tua](https://github.com/jakobihammonds/aboutMe/blob/main/img/tuaT.jpg)
-\n
+
 [Mark Fischbach][2]<br>
-\n
+
 ![Mark](https://github.com/jakobihammonds/aboutMe/blob/main/img/markF.jpg)
-\n
+
 
 
 
