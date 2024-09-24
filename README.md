@@ -50,14 +50,12 @@ Dogs <b>are</b> worse than Cats.
 [Tua Tagavailoa][1]<br>
 
 <kbd>
-<img src="https://github.com/jakobihammonds/aboutMe/blob/main/img/tuaT.jpg" height="25%" width="25%">
-</kbd>
+<img src="https://github.com/jakobihammonds/aboutMe/blob/main/img/tuaT.jpg" height="25%" width="25%"></kbd>
 
 [Mark Fischbach][2]<br>
 
 <kbd>
-<img src="https://github.com/jakobihammonds/aboutMe/blob/main/img/markF.jpg" height="25%" width="25%">
-</kbd>
+<img src="https://github.com/jakobihammonds/aboutMe/blob/main/img/markF.jpg" height="25%" width="25%"></kbd>
 
 
 
