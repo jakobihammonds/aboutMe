@@ -57,6 +57,15 @@ Dogs <b>are</b> worse than Cats.
 <kbd>
 <img src="https://github.com/jakobihammonds/aboutMe/blob/main/img/markF.jpg" height="25%" width="25%"></kbd>
 
+## Favorite Terms
+
+| Term | Definition |
+|:-|:----:|
+| Vivid| Producing powerful feelings or strong, clear images in the mind.|
+| Luminescent| Emitting light not caused by heat; glowing.|
+| Ideation| The process of forming ideas or concepts.|
+| Tactile| Relating to the sense of touch; capable of being felt.|
+
 
 
 
