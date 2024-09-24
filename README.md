@@ -5,6 +5,9 @@
 
 Hi! My Name is Jakobi Hammonds. I am an avid programmer with lots of love for every surrounding area in the field, including, Engineering, Cybersecurity, Graphic Design, and believe it or not, even more than that! I enjoy a challenging workspace with a lot of creativity involved, doing the same thing over and over is not my cup of tea. Not to get controversial, but, I like dogs but I love cats even more, and for good reason! Who doesn't like cats?
 
+[1]: https://instagram.com/tuamaann_
+[2]: https://youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ
+
 Hobbies
 -
 
@@ -45,6 +48,7 @@ Dogs <b>are</b> worse than Cats.
 ## Persons of Interest
 
 [Tua Tagavailoa][1]<br>
+[Mark Fischbach][2]<br>
 
 
 
